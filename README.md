@@ -45,4 +45,8 @@ This project includes two sub projects
 1. Processing
 
 
+## License
+1. GPL 3.0 See [License](LICENSE)
+
+
   
