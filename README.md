@@ -44,6 +44,11 @@ This project includes two sub projects
 1. Visual Studio and C# (.Net Framework 2.0)
 1. Processing
 
+## Hot to contribute
+1. To do
+
+## Hot to develop
+1. To do
 
 ## License
 1. GPL 3.0 See [License](LICENSE)
