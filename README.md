@@ -11,7 +11,7 @@ This project plan to include below features
 ![main image](/Images/arduino_plc1.png)
 
 
-# GUI PLC Ladder Editor
+## GUI PLC Ladder Editor
 GUI PLC Ladder Editor includes belows features
 
 1. Graphical GUI Editor
@@ -19,7 +19,7 @@ GUI PLC Ladder Editor includes belows features
 1. Arduino Uno uploader
 
 
-# Projects
+## Projects
 This project includes two sub projects
 
 * Arduino.PLC (C# Project)
@@ -35,12 +35,12 @@ This project includes two sub projects
   - This folder includes tutorial materials for ladder programming
   
 
-# How to start
+## How to start
 1. You can download C# source code or can run executable file within release link
 1. In order to run PLC simulator, you should download Processing tool
 
 
-# Development tools and languages
+## Development tools and languages
 1. Visual Studio and C# (.Net Framework 2.0)
 1. Processing
 
