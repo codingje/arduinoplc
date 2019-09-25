@@ -49,6 +49,7 @@ This project includes two sub projects
 
 ## Hot to develop
 1. To do
+1. Install VS 2013 above
 
 ## License
 1. GPL 3.0 See [License](LICENSE)
