@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/HelloAppsInc/arduinoplc.svg?branch=master)](https://travis-ci.org/HelloAppsInc/arduinoplc)
+
+
 # Arduino PLC Project
 GUI PLC Ladder Editor for Arduino Uno
 
