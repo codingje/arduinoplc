@@ -52,7 +52,7 @@ This project includes below five features
 ## How to start (Install)
 1. You can download C# source code or can run executable file within release link
 1. In order to run PLC simulator, you should download Processing tool
-1. Released version built with msi file and you need to install msi file
+1. Unzip release file and execute 'Arduino.PLC.exe' file
 
 
 ## Development tools and languages
