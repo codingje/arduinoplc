@@ -49,9 +49,10 @@ This project includes below five features
 * PLC simulation using processing
 
 
-## How to start
+## How to start (Install)
 1. You can download C# source code or can run executable file within release link
 1. In order to run PLC simulator, you should download Processing tool
+1. Released version built with msi file and you need to install msi file
 
 
 ## Development tools and languages
@@ -59,11 +60,11 @@ This project includes below five features
 1. Processing
 
 ## Hot to contribute
-1. To do
+1. Contact through email
 
 ## Hot to develop
-1. To do
-1. Install VS 2013 above
+1. Install VS 2010 above for PLC ladder
+1. Install Processing for simulation
 
 ## Code naming rule
 1. We are using PascalCase .Net rule
