@@ -65,6 +65,13 @@ This project includes below five features
 1. To do
 1. Install VS 2013 above
 
+## Code naming rule
+1. We are using PascalCase .Net rule
+1. All funtions and variables should be started capital letter
+1. Global variables should be started '_' character
+
+
+
 ## License
 1. GPL 3.0 See [License](LICENSE)
 
