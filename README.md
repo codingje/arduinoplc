@@ -33,7 +33,21 @@ This project includes two sub projects
   
 * Tutorials
   - This folder includes tutorial materials for ladder programming
+
+
+## SW feature list
+This project includes below five features
+
+* Graphical ladder editor
+
+* Convert ladder script to arduino sketch code
+
+* Arduino sketch code upload
   
+* Arduino monitoring
+
+* PLC simulation using processing
+
 
 ## How to start
 1. You can download C# source code or can run executable file within release link
